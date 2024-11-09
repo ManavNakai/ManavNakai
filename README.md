@@ -34,8 +34,17 @@ Tools:
 	<code><img width="33" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
 
 ## Certification Badges 📜
-<a href="https://api.badgr.io/public/assertions/XGz95jJCQ8O7gaUtlLnw7Q?identity__email=manavnakai123%40gmail.com"> 
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="60"> </a>
+
+<div style='display:flex; gap: 10px;'>
+  <a href="https://api.badgr.io/public/assertions/XGz95jJCQ8O7gaUtlLnw7Q?identity__email=manavnakai123%40gmail.com"> 
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70" title="Postman API Fundamentals"/> </a>
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70" title="Explorer"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70" title="Adventurer"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70" title="Trailblazer"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70" title="Summit Seeker"/>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70" title="Champion"/> </a>
+</div>
 
 ## Recent Projects 🚀
 - **[Secrets AuthO Project](https://github.com/ManavNakai/Secrets-auth-Project)**: Secrets-auth-Project is a website that allows users to log in using local or Google OAuth login, and submit their private secret which is only visible to them.
