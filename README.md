@@ -51,9 +51,11 @@ Tools:
 - **[To-Do List](https://github.com/ManavNakai/ToDo-List)**: ToDo-List is an application that allows users to maintain a ToDo-List for a day. Users can add new items, edit previous items, or delete items that have been completed.
 - **[Weather App](https://github.com/ManavNakai/Weather-App)**: Weather-App is a web application that allows users to check the weather of any city. It provides the weather description, temperature in degrees Celsius, and humidity using the OpenWeather API.
 
+<!--
 ## GitHub Analytics 📊
 ![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavNakai&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavNakai&layout=compact&theme=radical)
+-->
 
 ## Connect with Me 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-nakai-833482247/)
